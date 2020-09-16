@@ -7,8 +7,6 @@ Skills: JS / C / LUA
 
 - 🔭 I’m currently trying to master out Lua
 
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synterrr&layout=compact&theme=buefy" />
