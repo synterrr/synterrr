@@ -1,5 +1,4 @@
 ### Hi there 👋, My name is Luca
-![](https://camo.githubusercontent.com/d88bdce683bc31abcfc8fd8774880f5a305e4e59/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
 
 I love programming and to help people with their code. one of my goals to 2020 is to collaborate more with open source projects
 
