@@ -4,7 +4,7 @@ I love programming and to help people with their code. one of my goals to 2021 i
 
 Skills: JS / C / LUA
 
-- 🔭 I’m currently trying to master out Lua
+- 🔭 I’m currently studying Elixir
 
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
