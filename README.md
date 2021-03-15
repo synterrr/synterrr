@@ -6,10 +6,5 @@ Skills: JS / C / LUA
 
 - 🔭 I’m currently studying Elixir
 
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synterrr&layout=compact&theme=buefy" />
-</a>
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=synterrr&layout=compact&theme_name=onedark)](https://github.com/synterrr) 
 
