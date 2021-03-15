@@ -12,5 +12,5 @@ Skills: JS / C / LUA
 </a>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=synterrr&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=synterrr&show_icons=true&theme_name=dark)  
 
