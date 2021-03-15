@@ -2,7 +2,7 @@
 
 I love programming and to help people with their code. one of my goals to 2021 is to collaborate more with open source projects
 
-Skills: JS / C / LUA
+Skills: [![Elixir](https://img.shields.io/badge/-Elixir-00599C.svg?logo=C%2B%2B&logoColor=purple&longCache=true&style=for-the-badge)](https://github.com/uhmarlon?tab=repositories&q=&type=&language=c%2B%2B)
 
 - 🔭 I’m currently studying Elixir
 
