@@ -4,7 +4,7 @@ I love programming and to help people with their code. one of my goals to 2021 i
 
 Skills: [![Elixir](https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg)](https://github.com/synterrr?tab=repositories&q=&type=&language=elixir)
 [![JS](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)](https://github.com/synterrr?tab=repositories&q=&type=&language=javascript)
-[![LUA](https://www.vectorlogo.zone/logos/lua/lua-icon.svg)](https://github.com/synterrr?tab=repositories&q=&type=&language=javascript)
+[![LUA](https://www.vectorlogo.zone/logos/lua/lua-icon.svg)](https://github.com/synterrr?tab=repositories&q=&type=&language=lua)
 
 
 - 🔭 I’m currently studying Elixir
