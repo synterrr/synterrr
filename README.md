@@ -3,7 +3,7 @@
 I love programming and to help people with their code. one of my goals to 2021 is to collaborate more with open source projects
 
 Skills: [![Elixir](https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg)](https://github.com/synterrr?tab=repositories&q=&type=&language=elixir)
-[![JS](https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png)](https://github.com/synterrr?tab=repositories&q=&type=&language=javascript)
+[![JS](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)](https://github.com/synterrr?tab=repositories&q=&type=&language=javascript)
 
 - 🔭 I’m currently studying Elixir
 
