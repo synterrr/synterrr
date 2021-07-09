@@ -1,4 +1,4 @@
-![banner](https://wallpapertag.com/wallpaper/full/8/5/d/596097-cute-monkey-wallpapers-3000x2000-ipad-pro.jpg)
+<img src="https://wallpapertag.com/wallpaper/full/8/5/d/596097-cute-monkey-wallpapers-3000x2000-ipad-pro.jpg" width="1500" height="400"/>
 
 <p>
     <img src="https://img.shields.io/badge/-Elixir-B284BE?style=flat-square&logo=Elixir&logoColor=white"/>
