@@ -19,7 +19,7 @@
 <h3>Hey! My name is Luca!</h3><br/>
 <p>
   🧔 I'm 18 and a back-end lover, also i can only survive with coffee... i think<br/>
-  💻 I'm Currently developing for <a href="https://github.com/mintymanager">Minty Manager</a> ( My project )<br/>
+  💻 I'm Currently developing for <a href="https://mintyac.com/">Minty AC</a> ( My project )<br/>
   😂 Fun Fact: I love Monkeys and Alpacas!
 </p>
 
