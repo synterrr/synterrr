@@ -26,4 +26,5 @@
 <details>
   <summary>My github Stats</summary><br/>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=synterrr&show_icons=true&hide_border=false&line_height=20&title_color=000000&icon_color=ff0000&show_owner=true"/>
+  <img align="right" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synterrr"/>
 </details>
