@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Yarn-0079BF?style=flat-square&logo=Yarn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Grafana-F29111?style=flat-square&logo=Grafana&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Grafana-181717?style=flat-square&logo=Grafana&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Azure-123F6D?style=flat-square&logo=MicrosoftAzure&logoColor=white"/>
