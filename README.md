@@ -4,6 +4,7 @@
     <img src="https://img.shields.io/badge/-C-FF4785?style=flat-square&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Assembly-FF4785?style=flat-square&logo=Csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/-TypeScript-1C78C0?style=flat-square&logo=TypeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NestJS-181717?style=flat-square&logo=NestJS&logoColor=critical"/>
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
