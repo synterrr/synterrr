@@ -16,15 +16,6 @@
     <img src="https://img.shields.io/badge/-IntelliJ IDEA-222F29?style=flat-square&logo=JetBrains&logoColor=white"/>
 </p>
 
-
-
-<h3>Hey!</h3><br/>
-<p>
-  🧔 I'm 20 and a back-end lover, also i can only survive with coffee... i think<br/>
-  💻 I'm Currently developing for <a href="https://mintyac.com/">Minty AC</a> ( My project )<br/>
-  😂 Fun Fact: I love Monkeys and Alpacas!
-</p>
-
 <details>
   <summary>My github Stats</summary><br/>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=synterrr&show_icons=true&hide_border=false&line_height=20&title_color=000000&icon_color=ff0000&show_owner=true"/>
